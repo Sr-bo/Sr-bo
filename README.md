@@ -1,3 +1,6 @@
-<h2 style="color: #b16b5f;">Capítulo 1.1</h2>
-<p style="text-align: justify; font-size: large;" >Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab ducimus cupiditate eaque laboriosam labore amet corrupti. Dolore modi vitae nam ipsa hic tenetur veniam doloremque? Non odio doloremque suscipit eum!</p>
+# 👨‍💻 Cauã Fernandes
+
+**`Desenvolvedor Front-End`**
+
+Me chamo <a href="www.linkedin.com/in/cauãfernandes"><strong>Cauã Fernandes</strong></a>, tenho 22 anos e sou natural de Goiás. Atualmente, estou cursando <strong>Ciência da Computação</strong> na estácio e, além disso, me dedicando a cursos online para aprimorar minhas habilidades como programador front-end.
 <img src="https://i.imgur.com/xpXVZEP.png" alt="">
