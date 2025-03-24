@@ -2,8 +2,7 @@
 
 
 # Sejam bem-vindos!
-## Eu sou o Cauã!
-## Deixa eu falar um pouco sobre mim :D
+## Eu sou o Cauã!  Deixa eu falar um pouco sobre mim :D
 
 Programador Front-end | Desenvolvedor web 👨‍💻
 
