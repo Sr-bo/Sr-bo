@@ -2,7 +2,8 @@
 
 
 # Sejam bem-vindos!
-## Eu sou o Cauã! Deixa eu falar um pouco sobre mim :D
+## Eu sou o Cauã!
+Deixa eu falar um pouco sobre mim :D
 
 Programador Front-end | Desenvolvedor web 👨‍💻
 
@@ -18,5 +19,5 @@ Apaixonado por tecnologia e programação. ❤
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cauafs2@gmail.com)](mailto:cauafs2@gmail.com)
 
 
-- Thanks for visiting. 
-- Enjoy it!! o/
+- Obrigado pela visita. 
+- Aproveite!! o/
