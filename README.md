@@ -1,75 +1,22 @@
-# 👨‍💻 Cauã Fernandes
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
-**`Desenvolvedor Front-End`**
 
-Me chamo [<strong>Cauã Fernandes</strong>](https://www.linkedin.com/in/cauãfernandes/), tenho 22 anos e sou natural de Goiás. Atualmente, estou cursando <strong>Ciência da Computação</strong> na estácio e, além disso, me dedicando a cursos online para aprimorar minhas habilidades como programador front-end.
-<p align="center">
-  <img src="https://i.imgur.com/YleHJap.gif" alt="3d">
-</p>
+# Welcome!
+## I'm Lucas! Let me present a little about myself :D
 
----
+Full-Stack focused in Ruby on Rails | Software engineer :robot:
 
-### 🤖 <strong>Linguagens e Tecnologias</strong>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="UXdesign" 
-    title="UX"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://images.ctfassets.net/ooa29xqb8tix/sHolxYPkMQO1gT5u6Aycp/bea05ce2b4fa806b7ede7a9d9dc16375/UXlogo.png?w=400&q=50?fm=jpg&q=50" 
-/>
+Lover of Technology and coding :heart:
 
-<br/>
-<br/>
 
-### 📊 <strong>Estatísticas</strong>
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Sr-bo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+## About me 
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/Lucasdfg07)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-siqueira-167362148/)](https://www.linkedin.com/in/lucas-siqueira-167362148/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Lucassiqueirafernandes07@gmail.com)](mailto:Lucassiqueirafernandes07@gmail.com)
 
-</p>
+
+- Thanks for visiting. 
+- Enjoy it!! o/
