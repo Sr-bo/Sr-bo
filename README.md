@@ -4,7 +4,7 @@
 
 Me chamo [<strong>Cauã Fernandes</strong>](https://www.linkedin.com/in/cauãfernandes/), tenho 22 anos e sou natural de Goiás. Atualmente, estou cursando <strong>Ciência da Computação</strong> na estácio e, além disso, me dedicando a cursos online para aprimorar minhas habilidades como programador front-end.
 <p align="center">
-  <img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="3d">
+  <img src="https://i.imgur.com/YleHJap.gif" alt="3d">
 </p>
 
 ---
