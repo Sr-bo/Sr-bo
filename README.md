@@ -10,7 +10,7 @@ Apaixonado por tecnologia e programação. ❤
 
 
 
-## Sobre mim
+### Sobre mim
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Lucasdfg07)](https://github.com/Sr-bo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cau%C3%A3fernandes/)](https://www.linkedin.com/in/cau%C3%A3fernandes/)
