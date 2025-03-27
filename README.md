@@ -40,8 +40,7 @@ Apaixonado por tecnologia e programação. ❤
 
 
 
-<br>
-<br>
+#
 
 - Obrigado pela visita. 
 - Aproveite!! o/
