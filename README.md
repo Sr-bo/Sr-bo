@@ -17,7 +17,9 @@ Apaixonado por tecnologia e programação. ❤
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522997285662&text=Hello!)](https://api.whatsapp.com/send?phone=5562991036692&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cauafs2@gmail.com)](mailto:cauafs2@gmail.com)
 
-### Tecnologias
+
+
+# teste
 
 <img 
     align="left" 
